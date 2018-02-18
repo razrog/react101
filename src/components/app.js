@@ -28,10 +28,6 @@ export class App extends React.Component {
         <textarea style={{height: 200, width: "100%"}} value={csv} onChange={this.handleTextAreaChange}/>
       </div>
 
-      <div style={{paddingBottom: 16}}>
-        <Button onClick={this.generateReport} title="Generate Report"/>
-      </div>
-
       <div>Add the report here</div>
     </div>
   }
