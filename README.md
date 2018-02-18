@@ -14,7 +14,7 @@ You should extend the application, by adding the following features:
 1. A table/grid that shows a readable report of the CSV.
 2. At the bottom of the table, add a summary that will outline the payment distribution between the company and the employee.
 
-Final result example:  
+### Final result example:  
 ![alt text](https://github.com/kobiburnley/react101/raw/master/example.png)
 
 ### Running the project
