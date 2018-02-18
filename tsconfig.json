@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "lib": ["dom", "es5", "es2015.iterable", "es2015.promise"],
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "build",
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowJs": true,
+    "sourceMap": true
+  },
+  "include": ["src/**/*"]
+}
