@@ -22,7 +22,7 @@ Make sure you have NodeJS installed
 
 Then from your terminal run:
 ```
-git clone react101
+git clone https://github.com/kobiburnley/react101
 cd react101
 npm install
 npm start
