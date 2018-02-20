@@ -29,4 +29,8 @@ npm start
 ```
 Open [http://localhost:8080](http://localhost:8080) in your browser 
 
-Feel free to add any dependency you need. 
+Feel free to add dependencies as you need.
+
+### Handover instructions
+1. You can fork this repository and send a link to your fork by email.
+2. You can download the repository and send a zip file by email.
