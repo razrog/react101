@@ -103,7 +103,7 @@ export class App extends React.Component {
             </table>
           </div>
 
-          <div style={{"font-size": "15px"}}>
+          <div style={{fontSize: "15px"}}>
             <span style={{paddingRight:55}}>Employee share: </span><span>{employeeShare.toFixed(2)}</span><br/><br/>
             <span style={{paddingRight:55}}>Company share: </span><span>{companyShare.toFixed(2)}</span>
           </div>
